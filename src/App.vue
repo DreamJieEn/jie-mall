@@ -17,7 +17,7 @@
       </a>
       <a class="mui-tab-item" href="#tabbar-with-map">
         <span class="mui-icon mui-icon-gear"></span>
-        <span class="mui-tab-label">设置</span>
+        <span class="mui-tab-label">设置322121</span>
       </a>
     </nav>
     <h1>123</h1>
